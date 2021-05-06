@@ -69,7 +69,7 @@
     "mqtt": "^4.2.6",
     "qiscus-sdk-core": "^2.9.5",
     "store": "^2.0.12",
-    "superagent": "^3.6.3"
+    "superagent": "3.8.1"
   },
   "babel": {
     "presets": [

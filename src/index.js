@@ -1,4 +1,4 @@
-import request from 'superagent'
+ request from 'superagent'
 import mitt from 'mitt'
 import is from 'is_js'
 import format from 'date-fns/format'
